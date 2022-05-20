@@ -20,6 +20,6 @@ public class MethodReturnTypes {
     }
 
     public static boolean thisBoolean() {
-        return true;
+        return false;
     }
 }
